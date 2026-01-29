@@ -13,16 +13,4 @@ Restoran App Menggunakan CI dan Concept Master Template
 * Bootstrap 4
 * Concept Master Template Admin
 * Dll
-## Screenshot
-### Login
-![Login](https://i.ibb.co/PxVxkqx/Screenshot-from-2020-03-31-13-30-11.png)
-### Dashboard
-![Dashboard][(https://i.ibb.co/Fw7NgTs/Screenshot-from-2020-03-31-13-30-04.png)](https://1drv.ms/i/c/534fb476afbf2b5f/IQCdnvsX4JxxRpdu2vLNmRypAVJ5-1WP7Pg53o4D4-kq94Q?e=FvXU3c)
-### Order Masakan
-![Order Masakan](https://i.ibb.co/Z2gZnr3/Screenshot-from-2020-03-31-13-29-34.png)
-### Transaksi
-![Transaksi](https://i.ibb.co/NxBSSqJ/Screenshot-from-2020-03-31-13-29-19.png)
-### Data Masakan
-![Data Masakan](https://i.ibb.co/5FMq3mJ/Screenshot-from-2020-03-31-13-29-49.png)
-### Data Meja
-![Data Meja](https://i.ibb.co/SJBBhWG/Screenshot-from-2020-03-31-13-29-54.png)
+
