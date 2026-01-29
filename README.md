@@ -17,7 +17,7 @@ Restoran App Menggunakan CI dan Concept Master Template
 ### Login
 ![Login](https://i.ibb.co/PxVxkqx/Screenshot-from-2020-03-31-13-30-11.png)
 ### Dashboard
-![Dashboard](https://i.ibb.co/Fw7NgTs/Screenshot-from-2020-03-31-13-30-04.png)
+![Dashboard][(https://i.ibb.co/Fw7NgTs/Screenshot-from-2020-03-31-13-30-04.png)](https://1drv.ms/i/c/534fb476afbf2b5f/IQCdnvsX4JxxRpdu2vLNmRypAVJ5-1WP7Pg53o4D4-kq94Q?e=FvXU3c)
 ### Order Masakan
 ![Order Masakan](https://i.ibb.co/Z2gZnr3/Screenshot-from-2020-03-31-13-29-34.png)
 ### Transaksi
